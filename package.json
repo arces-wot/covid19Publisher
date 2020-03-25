@@ -1,0 +1,16 @@
+{
+  "name": "covid19agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@arces-wot/sepa-js": "^0.10.7",
+    "node-cron": "^2.0.3",
+    "nodegit": "^0.26.5"
+  }
+}
